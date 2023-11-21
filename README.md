@@ -1,8 +1,8 @@
 ### Olá, sou o BezerraLuiz! 👋🏻
 
-- 🔭 Trabalhando como Analista de Desenvolvimento Junior
-- 🌱 Cursando Engenharia de Software
-- 📫 Contate-me no e-mail: luizantoniopcb@gmail.com
+- 👨🏻‍💻 Trabalhando como Analista de Desenvolvimento Junior
+- 👨🏻‍🎓 Cursando Engenharia de Software
+- 📧 Contate-me no e-mail: luizantoniopcb@gmail.com
 
 <div>
   <a href="https://github.com/BezerraLuiz">
