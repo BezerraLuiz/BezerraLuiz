@@ -1,5 +1,5 @@
 
-# Olá! Eu sou o Luiz Bezerra. 😁💻
+# Olá! Eu sou o Luiz Antônio Bezerra. 😁💻
 
 ### Estudando Engenharia de Software na Unisatc.
 ### Aprimorando meu conhecimento e publicando aqui meus projetos em andamento e concluídos.
